@@ -1,5 +1,7 @@
 # ann-dau.github.io
 
+[![Build Status](https://travis-ci.org/ann-dau/ann-dau.github.io.svg?branch=develop)](https://travis-ci.org/ann-dau/ann-dau.github.io)
+
 ## start
 
 ```
